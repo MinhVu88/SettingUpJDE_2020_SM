@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SettingUpJDE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SettingUpJDE_jar</output-path>
+    <root id="archive" name="SettingUpJDE.jar">
+      <element id="module-output" name="SettingUpJDE" />
+    </root>
+  </artifact>
+</component>
