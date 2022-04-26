@@ -1,4 +1,4 @@
-package com.sander_mak.pluralsight.setting_up_jde_2020.titlecaseconverter;
+package com.pluralsight.sander_mak.setting_up_jde_2020.titlecaseconverter;
 
 public class TitlecaseConverter {
 	public static String convert(String input) {
